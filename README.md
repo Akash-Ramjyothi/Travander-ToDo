@@ -38,3 +38,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 Added Readme commit.
 Title tag added.
 Todo component added.
+Added double binded input.

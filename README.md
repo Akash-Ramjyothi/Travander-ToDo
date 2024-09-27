@@ -39,3 +39,4 @@ Added Readme commit.
 Title tag added.
 Todo component added.
 Added double binded input.
+Added submit button.

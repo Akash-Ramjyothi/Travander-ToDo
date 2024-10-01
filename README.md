@@ -42,3 +42,4 @@ Added double binded input.
 Added submit button.
 Fixed minor UI bug. Added title label.
 Added tailwind initialization.
+Added styled components.

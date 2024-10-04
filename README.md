@@ -45,3 +45,4 @@ Added tailwind initialization.
 Added styled components.
 Added tailwind CSS migrations.
 Added Flex Box.
+Added Grid container.

@@ -46,3 +46,4 @@ Added styled components.
 Added tailwind CSS migrations.
 Added Flex Box.
 Added Grid container.
+Added parent container.

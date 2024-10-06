@@ -47,3 +47,4 @@ Added tailwind CSS migrations.
 Added Flex Box.
 Added Grid container.
 Added parent container.
+Added RTK Queries.

@@ -48,3 +48,4 @@ Added Flex Box.
 Added Grid container.
 Added parent container.
 Added RTK Queries.
+Added redux global state.
